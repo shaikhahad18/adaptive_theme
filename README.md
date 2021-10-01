@@ -2,7 +2,7 @@
 
 # Adaptive Theme
 
-Easiest way to add support for **light** and **dark** theme in your Flutter app. It allows to manually set light or dark theme and also lets you define
+This is the easiest way to add support for **light** and **dark** theme in your Flutter app. It allows to manually set light or dark theme and also lets you define
 themes based on the system. It also persists the theme modes changes across app restarts.
 
 [![Build](https://github.com/BirjuVachhani/adaptive_theme/workflows/Build/badge.svg?branch=main)](https://github.com/BirjuVachhani/adaptive_theme/actions) [![adaptive_theme](https://img.shields.io/pub/v/adaptive_theme?label=adaptive_theme)](https://pub.dev/packages/adaptive_theme)
